@@ -2,6 +2,10 @@
 
 <p align="center" width="100%">
     <img width="50%" src="https://github.com/Python-Ensemble-Toolbox/.github/blob/main/profile/pictures/logo.png" title="PIPT and POPT are not your average PETs">
+</p>
+
+<p align = "center">
+<b>PIPT and POPT are not your average PETs</b>
 </p
 
 
